@@ -14,3 +14,4 @@ public class LogTraceConfig {
         return new ThreadLocalLogTrace();
     }
 }
+
