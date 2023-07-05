@@ -9,3 +9,4 @@ public class ProdPayClient implements PayClient {
         log.info("운영 결제 money={}", money);
     }
 }
+
