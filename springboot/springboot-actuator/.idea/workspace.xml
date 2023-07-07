@@ -48,11 +48,13 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -76,8 +78,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/boot-source-20230228/complete/actuator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/hello" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\springbootwork\Spring_ex\springboot\springboot-actuator\src\main\java\hello" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -98,6 +105,7 @@
       <updated>1688561523542</updated>
       <workItem from="1688561524727" duration="4026000" />
       <workItem from="1688630580115" duration="401000" />
+      <workItem from="1688735605948" duration="248000" />
     </task>
     <servers />
   </component>
